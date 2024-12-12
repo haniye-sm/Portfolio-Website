@@ -80,3 +80,11 @@ In this section, you can view images of the website.
 
 ---
 
+
+## 🌐 **Website Links**
+
+- 🌍 [Primary Domain (.com)](https://hadisehaghshenas.com)  
+- 🌏 [Secondary Domain (.ir)](https://hadisehaghshenas.ir)
+
+
+---
